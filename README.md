@@ -1,0 +1,29 @@
+# Predictive Analytics for Business Nanodegree
+
+### Alex Chen
+
+This repository contains projects for Udacity's [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008).
+
+[Syllabus](https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd008-br-default-en-us.pdf).
+
+
+### Part 1: Problem Solving with Advanced Analytics
+
+Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Also was introduced both Linear Regression and Multiple Linear Regression.
+
+- Project: [Predict Sales for a Catalog Launch]()
+
+### Part 2: Data Wrangling
+Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
+
+- Project: [Create an Analytical Dataset]().
+
+- Project: [Select Location of a New Petstore]().
+
+### Part 3: Classification Models
+Classification models are a powerful tool for business analyst. In this course, you learn more about binary and non-binary classification models and how to use them to drive business insights.
+
+- Project: [Predict Loan Default Risk]()
+
+
+![Udacity Predictive Analytics for Business Nanodegree](https://user-images.githubusercontent.com/32528638/72946458-c5529d00-3d5d-11ea-8bcf-3c5dc242feb4.jpg)
