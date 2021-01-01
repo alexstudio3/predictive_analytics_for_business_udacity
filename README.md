@@ -18,12 +18,8 @@ Data Wrangling is at the core of all data activity. In this course you learn how
 
 - Project: [Create an Analytical Dataset]().
 
-- Project: [Select Location of a New Petstore]().
-
 ### Part 3: Classification Models
 Classification models are a powerful tool for business analyst. In this course, you learn more about binary and non-binary classification models and how to use them to drive business insights.
 
 - Project: [Predict Loan Default Risk]()
 
-
-![Udacity Predictive Analytics for Business Nanodegree](https://user-images.githubusercontent.com/32528638/72946458-c5529d00-3d5d-11ea-8bcf-3c5dc242feb4.jpg)
