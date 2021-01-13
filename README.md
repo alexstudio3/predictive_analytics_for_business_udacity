@@ -1,4 +1,4 @@
-# Predictive Analytics for Business Nanodegree
+# Predictive Analytics for Business Nanodegree (Alteryx)
 
 ### Alex Chen
 
